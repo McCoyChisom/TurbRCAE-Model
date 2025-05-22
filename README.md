@@ -1,3 +1,5 @@
+# Please, do not follow the steps in this README file just yet, until I have created time to edit and update it with the correct information. Most of the things I have written here have been changed since the last time I managed to write down things.
+
 To begin with, I have used Ubuntu 24.04, hence to make most of the environment setup, I had to create and use a Virtual environment:
 
 Please Note:
